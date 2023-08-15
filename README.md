@@ -14,3 +14,21 @@ After you complete a level there are 3 rules to get stars:
 2-Collect all of three coins. In each map there are 3 coins placed for you to collect. Sometimes it can be tricky to reach them.
 
 3-Do not get hurt ever.
+
+
+
+
+SCREENSHOTS
+
+Main Menu
+![Main Menu](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/menu.PNG)
+
+Levels
+![Levels Menu](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/levels.PNG)
+
+Gameplay
+![Gameplay](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/1.PNG)
+![Gameplay](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/2.PNG)
+![Gameplay](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/3.PNG)
+![Gameplay](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/4.PNG)
+
