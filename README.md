@@ -32,3 +32,6 @@ Gameplay
 ![Gameplay](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/3.PNG)
 ![Gameplay](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/4.PNG)
 
+[![Video Açıklaması](https://github.com/fatihguner41/RedGuy/blob/main/Screenshots/1.PNG)](https://github.com/fatihguner41/RedGuy/blob/main/Gameplay%20Video.mp4)
+
+
