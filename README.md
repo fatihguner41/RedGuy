@@ -15,7 +15,8 @@ After you complete a level there are 3 rules to get stars:
 
 3-Do not get hurt ever.
 
-
+Gameplay Video Link:
+https://clipchamp.com/watch/RpbMhKUmJT7
 
 
 SCREENSHOTS
