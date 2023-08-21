@@ -1,6 +1,10 @@
 # RedGuy
 A 2D platformer game for both android and windows. Made with Unity.
 
+The executable game is shared with you to play and try the game. The game files for windows are in the file named "Red Guy", and for android "Red Guy(android)".
+
+I didn't share all the files of the game development stage because they are very large in size. However, you can review all the scripts I've written in the "Scripts" file.
+
 The game has successfully passed virus tests and is completely safe for you to download and play.
 
 Player can move with w,a,s,d or left,right,up,down arrows. Jump with "space".
