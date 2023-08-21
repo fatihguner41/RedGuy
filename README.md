@@ -1,6 +1,8 @@
 # RedGuy
 A 2D platformer game for both android and windows. Made with Unity.
 
+The game has successfully passed virus tests and is completely safe for you to download and play.
+
 Player can move with w,a,s,d or left,right,up,down arrows. Jump with "space".
 
 The goal is to complete all the levels by reaching to the portals.
